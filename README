@@ -1,0 +1,14 @@
+EARTHQUAKE MAP
+I have written this code as a part of programming assignment course from coursera course Object Oriented Programming in Java
+
+DESCRIPTION
+This is simple java PApplet application which shows live earthquake data with the help of marker.
+There are also city marker which helps to identiy if that particular city is affected by earthquake
+
+TROUBLE SHOOTING
+
+Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
+
+
+
+
